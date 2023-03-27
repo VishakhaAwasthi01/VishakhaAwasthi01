@@ -2,7 +2,7 @@ Hi there :wave:
 
 I'm a Frontend Developer
 
-- 🔭 I’m currently working on Reactjs(gatsbyjs framework) and a lot of tailwind css.
+- 🔭 I’m currently working on Reactjs, material ui, and redux
 - 🌱 I’m currently learning redux, javaScript concepts etc
 - 📫 How to reach me: https://www.linkedin.com/in/vishakha-awasthi-b9aa
 - 💬 Ping me about .html, .css, and .js
